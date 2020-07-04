@@ -7,9 +7,13 @@ Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
-
+Mobile:  +61(0)-481-262-515
+Email:  aidenartmore@gmail.com
+UTS Work Email:  artyo.more@uts.edu.au
+<a href="https://www.linkedin.com/in/aidenmore/">LinkedIn</a>
+<a href="https://www.uts.edu.au/staff/artyo.more">UTS Staff Profile</a>
 
 ## Currently
 
