@@ -2,6 +2,7 @@
 layout: cv
 title: Aiden More
 ---
+<!-- This is the technical Resume -->
 # Aiden More
 <!-- Tutor, Notetaker & Exam Supervisor @ UTS, prev-UTSSA Treasurer, Club VP, Manager/Bartender, Web Designer/Dev, Physics & Econ Student. -->
 
