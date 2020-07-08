@@ -1,0 +1,291 @@
+I"WA<p>Tired of using LaTeX to make your CV look pretty? Can’t remember how to set margins in your TeX file? Refusing to compromise and “just use Word”?</p>
+
+<h1 id="markdown-cv-is-a-simple-template-to-list-all-your-accomplishments-in-a-readable-markdown-file-it-uses-css-to-style-your-text-into-a-stylish-web-page-it-can-also-be-printed-as-pdf"><a href="http://elipapa.github.io/markdown-cv/">markdown-cv</a> is a simple template to list all your accomplishments in a readable Markdown file. It uses CSS to style your text into a stylish web page. It can also be printed as PDF.</h1>
+<p>layout: cv
+title: Aiden More
+—
+<!-- This is the Main Resume --></p>
+<h1 id="aiden-more">Aiden More</h1>
+<!-- Tutor, Notetaker & Exam Supervisor @ UTS, prev-UTSSA Treasurer, Club VP, Manager/Bartender, Web Designer/Dev, Physics & Econ Student. -->
+
+<div id="webaddress">
+Mobile:  +61(0)-481-262-515 | Email:  <a href="mailto:aidenartmore@gmail.com">aidenartmore@gmail.com</a> | UTS Email:  <a href="mailto:artyo.more@uts.edu.au">artyo.more@uts.edu.au</a> |
+<a href="https://www.linkedin.com/in/aidenmore/">LinkedIn</a> |
+<a href="https://www.uts.edu.au/staff/artyo.more">UTS Staff Profile</a>
+</div>
+<blockquote>
+  <blockquote>
+    <blockquote>
+      <blockquote>
+        <blockquote>
+          <blockquote>
+            <blockquote>
+              <p>master</p>
+            </blockquote>
+          </blockquote>
+        </blockquote>
+      </blockquote>
+    </blockquote>
+  </blockquote>
+</blockquote>
+
+<h3 id="what-does-that-mean">what does that mean?</h3>
+
+<p>«««&lt; HEAD
+Write your CV like this…</p>
+
+<p><img src="img/mdown.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" /></p>
+
+<p>and use <a href="https://jekyllrb.com/">jekyll</a> or <a href="https://pages.github.com/">github pages</a> to make it look like this..</p>
+
+<p><img src="img/output.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" /></p>
+
+<h2 id="usage">Usage</h2>
+
+<p>To start, simply <a href="https://github.com/elipapa/markdown-cv">fork the markdown-cv repo</a></p>
+
+<h1><img src="https://help.github.com/assets/images/help/repository/fork_button.jpg" alt="" /></h1>
+<!-- <div id='webaddress'>
+
+Mobile:  +61(0)-481-262-515 <br>
+
+Email:  <a href='mailto:aidenartmore@gmail.com'>aidenartmore@gmail.com</a> <br>
+
+UTS Email:  <a href='mailto:artyo.more@uts.edu.au'>artyo.more@uts.edu.au</a> <br>
+
+<a href='https://www.linkedin.com/in/aidenmore/'>LinkedIn</a> <br>
+ 
+<a href='https://www.uts.edu.au/staff/artyo.more'>UTS Staff Profile</a> <br>
+
+</div> -->
+
+<h2 id="summary">Summary</h2>
+
+<p>Determined and driven Bachelor of Science (Applied Physics) Bachelor of Business (Economics) student and staff member at University of Technology Sydney (UTS), with broad work and study experience.</p>
+<blockquote>
+  <blockquote>
+    <blockquote>
+      <blockquote>
+        <blockquote>
+          <blockquote>
+            <blockquote>
+              <p>master</p>
+            </blockquote>
+          </blockquote>
+        </blockquote>
+      </blockquote>
+    </blockquote>
+  </blockquote>
+</blockquote>
+
+<p>and then <a href="https://help.github.com/articles/editing-files-in-your-repository/">edit directly in github</a> the <code class="language-plaintext highlighter-rouge">index.md</code> file</p>
+
+<p>«««&lt; HEAD
+<img src="https://help.github.com/assets/images/help/repository/edit-file-edit-button.png" alt="" /></p>
+
+<p>adding your skills, jobs and education.</p>
+
+<p><img src="https://help.github.com/assets/images/help/repository/edit-readme-light.png" alt="" /></p>
+
+<p>To transform your plain text CV into a beautiful looking HTML page and share it you then have two options:</p>
+
+<h3 id="1-using-github-pages-to-publish-it-online">1) Using Github Pages to publish it online</h3>
+
+<ol>
+  <li>Delete the existing <code class="language-plaintext highlighter-rouge">gh-pages</code> branch from your fork. It will only contain this webpage. You can either use git or <a href="https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/#deleting-a-branch">the github web interface</a></li>
+  <li>Create a new branch called <code class="language-plaintext highlighter-rouge">gh-pages</code> (which will then be a copy of master)</li>
+  <li>Head to <em>yourusername</em>.github.io/markdown-cv to see your CV live.</li>
+</ol>
+
+<p>Any change you want to make to your CV from then on would have to be done on the <code class="language-plaintext highlighter-rouge">gh-pages</code> branch and will be immediately rendered by Github Pages.</p>
+
+<h3 id="2-build-it-locally">2) Build it locally</h3>
+<ol>
+  <li><a href="https://jekyllrb.com/docs/installation/">install jekyll</a> on your computer. <code class="language-plaintext highlighter-rouge">gem install jekyll</code> will do for most users.</li>
+  <li>Clone your fork on your computer</li>
+  <li>Type <code class="language-plaintext highlighter-rouge">jekyll serve</code> and you’ll be able to see your CV on your local host (the default address is http://localhost:4000).</li>
+  <li>You can edit the <code class="language-plaintext highlighter-rouge">index.md</code> file and see changes live in your browser.</li>
+</ol>
+
+<h2 id="how-do-i-print-the-pdf">How do I print the PDF?</h2>
+<p>Whether you used Github Pages or a local installation of Jekyll, to print a PDF just press <em>Print</em> in your browser. Print specific <a href="http://www.joshuawinn.com/css-print-media-query/">CSS media queries</a> will take care of the styling.</p>
+
+<h2 id="is-this-the-only-style-available">is this the only style available?</h2>
+
+<p>The included CSS renders your CV in different styles:</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">kjhealy</code> the original default, inspired by <a href="https://github.com/kjhealy/kjh-vita">kjhealy’s vita
+template</a></li>
+</ul>
+
+<p><img src="img/styles/kjhealy.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" /></p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">davewhipp</code> is a tweaked version of <code class="language-plaintext highlighter-rouge">kjhealy</code>, with bigger fonts and dates
+right aligned, authored by <a href="https://davewhipp.github.io/markdown-cv/">David Whipp</a></li>
+</ul>
+
+<p><img src="img/styles/davewhipp.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" /></p>
+
+<p>To change the default style, one needs to simply change <code class="language-plaintext highlighter-rouge">site</code> the variable in the
+<code class="language-plaintext highlighter-rouge">_config.yml</code> file.</p>
+
+<p>Any other styling is possible. More CSS style contributions and forks are welcome!</p>
+
+<h3 id="author">Author</h3>
+
+<p>Eliseo Papa (<a href="http://twitter.com/elipapa">Twitter</a>/<a href="http://github.com/elipapa">GitHub</a>/<a href="https://elipapa.github.io">website</a>).</p>
+
+<p><img src="https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100" alt="Eliseo Papa" /></p>
+
+<h3 id="license">License</h3>
+
+<p><a href="https://github.com/elipapa/markdown-cv/blob/master/LICENSE">MIT License</a></p>
+
+<h1 id="github-cornerhover-octo-armanimationoctocat-wave-560ms-ease-in-outkeyframes-octocat-wave0100transformrotate02060transformrotate-25deg4080transformrotate10degmedia-max-width500pxgithub-cornerhover-octo-armanimationnonegithub-corner-octo-armanimationoctocat-wave-560ms-ease-in-out"><a href="https://github.com/elipapa/markdown-cv" class="github-corner"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style></h1>
+<!-- `2017 - 2020`
+__Bachelor of Science (Applied Physics),__ <br>
+__Bachelor of Business (Economics)__<br>
+__University of Technology, Sydney__<br>
+* Major in Applied Physics
+* Major in Economics<br> -->
+
+<p><code class="language-plaintext highlighter-rouge">2017 - Expected: 2020</code>
+<strong>University of Technology, Sydney</strong> <br />
+B.S. Applied Physics, B.Bus. Economics</p>
+
+<h2 id="occupation">Occupation</h2>
+
+<p><code class="language-plaintext highlighter-rouge">May 2020 - Present</code>
+<strong>Exam Supervisor, Scribe, &amp; Reader</strong>, UTS Accessibility &amp; SAU Exams</p>
+
+<ul>
+  <li>Supervising students with accessibility requirements and ensuring compliance with the university pro-tocol and procedures to support them through exams</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">Jan 2019 - Present</code>
+<strong>Accessibility Notetaker</strong>, UTS Accessibility Service</p>
+
+<ul>
+  <li>Writing of clear and comprehensive notes for students with Accessibility/Disability conditions in a professional, flexible, and confidential manner, with a mindful approach and sensitive engagement with diverse students with special needs</li>
+  <li>Communicated sensitively and tactfully, both orally and in writing, with individuals from diverse backgrounds at all levels at UTS. Making an impact by working with disadvantaged students</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">July 2018 - Present</code>
+<strong>Peer Tutor</strong>, UTS Financial Assistance Center &amp; Accessibility Service</p>
+
+<ul>
+  <li>Offer one-on-one tutoring and mentoring to students with accessibility requirements and from diverse backgrounds.</li>
+</ul>
+
+<p><em>Key Achievements</em>:</p>
+
+<ul>
+  <li>Highly praised for ‘Extremely pleasant manner’ and ‘professional demeanour’ by Program Coordinator in recommendation letter, with ‘very professional’ communication skills also praised. And reference to ‘positive feedback’ received from tutees.</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">Jan 2017 - Present</code>
+<strong>Private Tutor</strong>, Self-Employed</p>
+
+<ul>
+  <li>Provided 100+ sessions to students on Mathematics, Business Statistics, and more; as well as provide contracted tutoring with the ActivateUTS Elite Athlete program</li>
+  <li>Well reviewed with testimonials and extremely positive public feedback on a national tutoring platformfrom dozens of clients</li>
+</ul>
+
+<p><em>Key Achievement</em>:</p>
+
+<ul>
+  <li>Listing engaged with 1,200+ times with 100+ contacts by customers</li>
+  <li>Top Ranked front-page Tutor on national tutoring platformStudentVIP</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">Oct 2018 - Jan 2020</code>
+<strong>Treasurer</strong>, UTS Student’s Association</p>
+
+<ul>
+  <li>Elected to represent student body of 45,930 to direct student activity fees and special funds toward the UTS Student Association and distributed to student organizations</li>
+  <li>Reported  on  organisation  financials  monthly  working  with  the  UTSSA  President  to  ensure effective use of funds in provision of services to students; Organising, minuting, and chairing Finance and Budgetary committee meetings</li>
+  <li>Led an organisation with assets of  3 million dollars, budgeting $1,500,000 and allocating funds committees towards committees and branches representing different issues on campus including academic affairs, diversity &amp; inclusion initiatives, and other student services</li>
+</ul>
+
+<p><em>Key Achievement</em>:</p>
+<ul>
+  <li>Budgeted and spent 220k for Free Student Legal Services, 184k on Free food days on campus with an added +25k, 200k on student magazine and 209k on student campaigns</li>
+</ul>
+
+<p><span id="divider">Secondary Education</span></p>
+
+<p><code class="language-plaintext highlighter-rouge">Aug 2014 - July 2015</code>
+<strong>General Manager</strong>, Mandala Hotels, Bali, Indonesia</p>
+
+<ul>
+  <li>Responsible for the day to day management of a medium sized hotel and 40+ employees</li>
+  <li>Day-to-day accounting, restaurant &amp; HR management/training.  As well as the organization of timesheets, staff schedules, staff meetings, events and 30-person Yoga retreats.</li>
+  <li>Responsible for staff training, interviews, meetings, conflict resolution and dismissals</li>
+  <li>Managed the opening and growth of new business with managers, directors, contractors, and owners</li>
+  <li>Maintained strict food quality control, and with owners strived for efficiency, cleanliness, and discipline in the Restaurant and Bar</li>
+</ul>
+
+<p><em>Key Achievement</em>:</p>
+<ul>
+  <li>Highly praised by Hotel Owner for ‘Incredible business aptitude and continued leadership potential (…)’ and ‘single-handedly creating the Hotel’s website’ as well as ‘organizing a staff of 40 employees’. With particular praise given for ‘incredible drive’ and the ‘passion’ taken ‘to his tasks and responsibilities.’ - Recommendation Letter, Owner, Helena Smith, Mandala Village Hotel</li>
+</ul>
+
+<p><strong>Manager</strong>, Mandala Hotels, Bali, Indonesia</p>
+<ul>
+  <li>7 month overseas junior Management role first as a reservations manager (part-time), to supervisor, and then manager. Managed reservations, and customer experience independently while running the bed and breakfast’s day to day operations.</li>
+</ul>
+
+<p><em>Key Achievement</em>:</p>
+<ul>
+  <li>Praise from Owner praising ‘great Team’ skills, and ‘community’ ‘engagement’ and ability to ‘solve problems that some (…) don’t even notice.’ - Recommendation Letter, Owner, Kim Slippens, Mandala Bali Bed &amp; Breakfast. As well as extensive praise by customers in positive reviews.</li>
+</ul>
+
+<h2 id="extracurriculars">Extracurriculars</h2>
+<p><code class="language-plaintext highlighter-rouge">Dec 2017 - Feb 2019</code>
+UTSSA Councillor, Campus Chairperson/Convenor</p>
+
+<p><code class="language-plaintext highlighter-rouge">Jan 2018 - Aug 2018</code> 
+UTS Start-ups / UTS Hatchery Ideate Start-up Incubator</p>
+
+<p><code class="language-plaintext highlighter-rouge">Nov 2017 - Dec 2017</code>
+Internet of Things (Soft.Eng.), Beijing Institute of Technology</p>
+
+<h2 id="other-work">Other Work</h2>
+<p><code class="language-plaintext highlighter-rouge">Seasonal 2016</code>
+Bartender, Barenz, Camden, South-West Sydney</p>
+
+<h2 id="other">Other</h2>
+<h3 id="it-skills">IT Skills</h3>
+<ul>
+  <li><strong>Suites &amp; Editors</strong>: Adobe Suite (Photoshop, Illustrator), Microsoft Suite (Word, PowerPoint, Excel), Apple Suite (Keynote, Paper, Numbers), LATEX, Visual Studio Code, Vim, Inkscape, PyCharm</li>
+  <li><strong>Web Design &amp; Development &amp; Marketing</strong>: WordPress, HTML5, CSS3, Social Media Management, SEO</li>
+  <li><strong>Programming</strong>: Python 3, Jupyter (Notebooks &amp; Lab), GNU Octave, MatLab, Spyder</li>
+</ul>
+
+<h3 id="other-skills">Other Skills</h3>
+<ul>
+  <li><strong>Languages</strong>:  English (native), Indonesian (fluent)</li>
+  <li><strong>Licenses</strong>: Own Transport, White Card License, Responsible Service of Gambling License (RCG), Responsible Service of Alcohol License (RSA)</li>
+</ul>
+
+<h3 id="references">References:</h3>
+<p>Available on request.
+<!-- ### Footer Last updated: May 2013 --></p>
+<blockquote>
+  <blockquote>
+    <blockquote>
+      <blockquote>
+        <blockquote>
+          <blockquote>
+            <blockquote>
+              <p>master</p>
+            </blockquote>
+          </blockquote>
+        </blockquote>
+      </blockquote>
+    </blockquote>
+  </blockquote>
+</blockquote>
+:ET
