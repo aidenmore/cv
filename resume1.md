@@ -2,7 +2,7 @@
 layout: cv
 title: Aiden More
 ---
-<!-- This is the Main Resume -->
+<!-- This is the technical Resume -->
 # Aiden More
 <!-- Tutor, Notetaker & Exam Supervisor @ UTS, prev-UTSSA Treasurer, Club VP, Manager/Bartender, Web Designer/Dev, Physics & Econ Student. -->
 
@@ -87,7 +87,7 @@ __Treasurer__, UTS Student's Association
 *Key Achievement*:
 * Budgeted and spent 220k for Free Student Legal Services, 184k on Free food days on campus with an added +25k, 200k on student magazine and 209k on student campaigns
 
-<span id="divider">Secondary Education</span>
+<div id="divider">Secondary Education</div>
 
 `Aug 2014 - July 2015`
 __General Manager__, Mandala Hotels, Bali, Indonesia
