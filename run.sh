@@ -1,0 +1,1 @@
+wkhtmltopdf http://localhost:4000/ index2.pdf
