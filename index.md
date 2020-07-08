@@ -1,95 +1,137 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Aiden More
 ---
 # Aiden More
-Physicist, Mathematician, Cambridge professor.
+<!-- Tutor, Notetaker & Exam Supervisor @ UTS, prev-UTSSA Treasurer, Club VP, Manager/Bartender, Web Designer/Dev, Physics & Econ Student. -->
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-<a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<div id='webaddress'>
+Mobile:  +61(0)-481-262-515 | Email:  <a href='mailto:aidenartmore@gmail.com'>aidenartmore@gmail.com</a> | UTS Email:  <a href='mailto:artyo.more@uts.edu.au'>artyo.more@uts.edu.au</a> |
+<a href='https://www.linkedin.com/in/aidenmore/'>LinkedIn</a> |
+<a href='https://www.uts.edu.au/staff/artyo.more'>UTS Staff Profile</a>
 </div>
-Mobile:  +61(0)-481-262-515
-Email:  aidenartmore@gmail.com
-UTS Work Email:  artyo.more@uts.edu.au
-<a href="https://www.linkedin.com/in/aidenmore/">LinkedIn</a>
-<a href="https://www.uts.edu.au/staff/artyo.more">UTS Staff Profile</a>
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
-### Research interests
+<!-- <div id='webaddress'>
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Mobile:  +61(0)-481-262-515 <br>
 
+Email:  <a href='mailto:aidenartmore@gmail.com'>aidenartmore@gmail.com</a> <br>
+
+UTS Email:  <a href='mailto:artyo.more@uts.edu.au'>artyo.more@uts.edu.au</a> <br>
+
+<a href='https://www.linkedin.com/in/aidenmore/'>LinkedIn</a> <br>
+ 
+<a href='https://www.uts.edu.au/staff/artyo.more'>UTS Staff Profile</a> <br>
+
+</div> -->
+
+## Summary
+
+Determined and driven Bachelor of Science (Applied Physics) Bachelor of Business (Economics) student and staff member at University of Technology Sydney (UTS), with broad work and study experience.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+<!-- `2017 - 2020`
+__Bachelor of Science (Applied Physics),__ <br>
+__Bachelor of Business (Economics)__<br>
+__University of Technology, Sydney__<br>
+* Major in Applied Physics
+* Major in Economics<br> -->
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+`2017 - Expected: 2020`
+__University of Technology, Sydney__ <br>
+B.S. Applied Physics, B.Bus. Economics
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`May 2020 - Present`
+__Exam Supervisor, Scribe, & Reader__, UTS Accessibility & SAU Exams
 
-- Warden
-- Minted coins
+* Supervising students with accessibility requirements and ensuring compliance with the university pro-tocol and procedures to support them through exams
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`Jan 2019 - Present`
+__Accessibility Notetaker__, UTS Accessibility Service
+
+* Writing of clear and comprehensive notes for students with Accessibility/Disability conditions in a professional, flexible, and confidential manner, with a mindful approach and sensitive engagement with diverse students with special needs
+* Communicated sensitively and tactfully, both orally and in writing, with individuals from diverse backgrounds at all levels at UTS. Making an impact by working with disadvantaged students
+
+`July 2018 - Present`
+__Peer Tutor__, UTS Financial Assistance Center & Accessibility Service
+
+* Offer one-on-one tutoring and mentoring to students with accessibility requirements and from diverse backgrounds.
+
+*Key Achievements*:
+
+* Highly praised for 'Extremely pleasant manner' and 'professional demeanour' by Program Coordinator in recommendation letter, with 'very professional' communication skills also praised. And reference to 'positive feedback' received from tutees.
+
+`Jan 2017 - Present`
+__Private Tutor__, Self-Employed
+
+* Provided 100+ sessions to students on Mathematics, Business Statistics, and more; as well as provide contracted tutoring with the ActivateUTS Elite Athlete program
+* Well reviewed with testimonials and extremely positive public feedback on a national tutoring platformfrom dozens of clients
+
+*Key Achievement*:
+
+* Listing engaged with 1,200+ times with 100+ contacts by customers
+* Top Ranked front-page Tutor on national tutoring platformStudentVIP
+
+`Oct 2018 - Jan 2020`
+__Treasurer__, UTS Student's Association
+
+* Elected to represent student body of 45,930 to direct student activity fees and special funds toward the UTS Student Association and distributed to student organizations
+* Reported  on  organisation  financials  monthly  working  with  the  UTSSA  President  to  ensure effective use of funds in provision of services to students; Organising, minuting, and chairing Finance and Budgetary committee meetings
+* Led an organisation with assets of  3 million dollars, budgeting $1,500,000 and allocating funds committees towards committees and branches representing different issues on campus including academic affairs, diversity & inclusion initiatives, and other student services
+
+*Key Achievement*:
+* Budgeted and spent 220k for Free Student Legal Services, 184k on Free food days on campus with an added +25k, 200k on student magazine and 209k on student campaigns
+
+<span id="divider">Secondary Education</span>
+
+`Aug 2014 - July 2015`
+__General Manager__, Mandala Hotels, Bali, Indonesia
+
+* Responsible for the day to day management of a medium sized hotel and 40+ employees
+* Day-to-day accounting, restaurant & HR management/training.  As well as the organization of timesheets, staff schedules, staff meetings, events and 30-person Yoga retreats.
+* Responsible for staff training, interviews, meetings, conflict resolution and dismissals
+* Managed the opening and growth of new business with managers, directors, contractors, and owners
+* Maintained strict food quality control, and with owners strived for efficiency, cleanliness, and discipline in the Restaurant and Bar
+
+*Key Achievement*:
+* Highly praised by Hotel Owner for 'Incredible business aptitude and continued leadership potential (...)' and 'single-handedly creating the Hotel's website' as well as 'organizing a staff of 40 employees'. With particular praise given for 'incredible drive' and the 'passion' taken 'to his tasks and responsibilities.' - Recommendation Letter, Owner, Helena Smith, Mandala Village Hotel
 
 
+__Manager__, Mandala Hotels, Bali, Indonesia 
+* 7 month overseas junior Management role first as a reservations manager (part-time), to supervisor, and then manager. Managed reservations, and customer experience independently while running the bed and breakfast's day to day operations. 
 
-<!-- ### Footer
+*Key Achievement*:
+* Praise from Owner praising 'great Team' skills, and 'community' 'engagement' and ability to 'solve problems that some (...) don't even notice.' - Recommendation Letter, Owner, Kim Slippens, Mandala Bali Bed & Breakfast. As well as extensive praise by customers in positive reviews.
 
-Last updated: May 2013 -->
+## Extracurriculars 
+`Dec 2017 - Feb 2019`
+UTSSA Councillor, Campus Chairperson/Convenor
+
+`Jan 2018 - Aug 2018` 
+UTS Start-ups / UTS Hatchery Ideate Start-up Incubator
+
+`Nov 2017 - Dec 2017`
+Internet of Things (Soft.Eng.), Beijing Institute of Technology
 
 
+## Other Work
+`Seasonal 2016`
+Bartender, Barenz, Camden, South-West Sydney
+
+## Other
+### IT Skills
+* **Suites & Editors**: Adobe Suite (Photoshop, Illustrator), Microsoft Suite (Word, PowerPoint, Excel), Apple Suite (Keynote, Paper, Numbers), LATEX, Visual Studio Code, Vim, Inkscape, PyCharm
+* **Web Design & Development & Marketing**: WordPress, HTML5, CSS3, Social Media Management, SEO
+* **Programming**: Python 3, Jupyter (Notebooks & Lab), GNU Octave, MatLab, Spyder
+
+### Other Skills
+* **Languages**:  English (native), Indonesian (fluent)
+* **Licenses**: Own Transport, White Card License, Responsible Service of Gambling License (RCG), Responsible Service of Alcohol License (RSA)
+
+### References: 
+Available on request.
+<!-- ### Footer Last updated: May 2013 -->
